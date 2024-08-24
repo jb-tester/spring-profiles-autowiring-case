@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Second case: non-public beans with different names; injection by type: ERROR
+ * Third case: non-public beans with different names; injection by type: ERROR
  * https://youtrack.jetbrains.com/issue/IDEA-358182
  */
 @RestController
