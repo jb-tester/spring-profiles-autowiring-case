@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * Third case: non-public beans with different names; injection by type: ERROR
- * https://youtrack.jetbrains.com/issue/IDEA-358182
+ * https://youtrack.jetbrains.com/issue/IDEA-358182 - fixed
  */
 @RestController
 class ThirdCase {
